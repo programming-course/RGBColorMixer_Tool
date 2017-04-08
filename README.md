@@ -1,6 +1,6 @@
 ## RGB Color Mixer Tool
 
-#### Color changing application using rgb values.
+#### Color changing application using rgb values. [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 ### Application screenshot : 
 
