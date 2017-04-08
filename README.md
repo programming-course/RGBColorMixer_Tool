@@ -1,1 +1,1 @@
-# RGBColorMixer_Tool
+# RGB Color Mixer Tool
