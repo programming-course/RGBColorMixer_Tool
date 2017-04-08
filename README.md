@@ -1,4 +1,4 @@
-# RGB Color Mixer Tool
+## RGB Color Mixer Tool
 
 #### Color changing application using rgb values.
 
