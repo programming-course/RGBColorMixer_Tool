@@ -14,3 +14,13 @@
 
 * Java SDK
 * NetBeans IDE
+
+#### Cloning an Existing Repository ( Clone with HTTPS )
+```
+git clone https://github.com/ismailtasdelen/RGBColorMixer_Tool.git
+```
+
+#### Cloning an Existing Repository ( Clone with SSH )
+```
+git clone git@github.com:ismailtasdelen/RGBColorMixer_Tool.git
+```
