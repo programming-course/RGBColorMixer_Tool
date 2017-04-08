@@ -1,6 +1,6 @@
 # RGB Color Mixer Tool
 
-#### Color changing application using rgb values.
+#### Color changing application using rgb values. [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow&style=flat-square)]()
 
 ### Application screenshot : 
 
